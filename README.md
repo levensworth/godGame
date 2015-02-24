@@ -1,2 +1,2 @@
 # godGame
-an on line card game
+an on-line card game
